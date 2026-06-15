@@ -13,7 +13,7 @@ main technical application / development logic
 demo/example notebook with a specific use case and explanation
 ```
 
-### **Archimate**
+### **Archimate:**
 
 #### **DigiVan-GmbH** 
 ```
